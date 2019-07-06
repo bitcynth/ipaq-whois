@@ -1,0 +1,5 @@
+/ipaq-whois/bin/
+/ipaq-whois/obj/
+*.user
+*.suo
+/ipaq-whois.exe
